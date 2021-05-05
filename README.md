@@ -10,3 +10,6 @@
 
 3.Open `linear.html` file from there
 
+4.You will see this window
+
+![Image](https://github.com/lulz-sec-18/tfjs/blob/main/Screenshot%20from%202021-05-05%2018-02-18.png)
